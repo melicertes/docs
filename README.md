@@ -45,16 +45,16 @@ available for users, developers and contributors of the MeliCERTes CSP project.
 | Virtual Image |  |
 
 
-## Malwarecage
+## MWDB Core
 
 |             |             |
 | ----------- | ----------- |
-| Official link | [Malwarecage](https://github.com/CERT-Polska/malwarecage)      |
+| Official link | [MWDB Core](https://github.com/CERT-Polska/mwdb-core)      |
 | Description  | Malware repository component for automated malware collection/analysis systems.  |
-| Install Documentation | https://github.com/CERT-Polska/malwarecage#basic-installation-via-docker-compose |
+| Install Documentation | https://github.com/CERT-Polska/mwdb-core#basic-installation-via-docker-compose |
 | User Documentation | https://mwdblib.readthedocs.io/ |
-| FAQ |  |
-| Issues | https://github.com/CERT-Polska/malwarecage/issues |
+| FAQ | - |
+| Issues | https://github.com/CERT-Polska/mwdb-core/issues |
 | Training materials | - |
 | Virtual Image | - |
 
