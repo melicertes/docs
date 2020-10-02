@@ -30,6 +30,7 @@ available for users, developers and contributors of the MeliCERTes CSP project.
 | Issues | [MISP Issues](https://github.com/MISP/MISP/issues) |
 | Training materials | [MISP Training Materials](https://github.com/misp/misp-training) |
 | Virtual Image | [MISP VM](https://www.circl.lu/misp-images/latest/) |
+| Security Reporting and Issues| [security](https://www.misp-project.org/security/) |
 
 ## IntelMQ
 
