@@ -44,6 +44,7 @@ available for users, developers and contributors of the MeliCERTes CSP project.
 | Issues | https://github.com/certtools/intelmq/issues |
 | Training materials | https://github.com/certtools/intelmq-tutorial/ |
 | Virtual Image |  |
+| Security Reporting and Issues| [Security](https://github.com/certtools/intelmq/blob/master/SECURITY.md) |
 
 
 ## MWDB Core
