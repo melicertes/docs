@@ -38,9 +38,9 @@ available for users, developers and contributors of the MeliCERTes CSP project.
 | ----------- | ----------- |
 | Official link      | [IntelMQ](https://github.com/certtools/intelmq)      |
 | Description  |  IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.   |
-| Install Documentation | https://github.com/certtools/intelmq/blob/master/docs/INSTALL.md |
-| User Documentation | https://github.com/certtools/intelmq/blob/master/docs/User-Guide.md |
-| FAQ | https://github.com/certtools/intelmq/blob/master/docs/FAQ.md |
+| Install Documentation | https://intelmq.readthedocs.io/en/latest/user/installation.html |
+| User Documentation | https://intelmq.readthedocs.io/en/latest/#user-guide |
+| FAQ | https://intelmq.readthedocs.io/en/latest/user/FAQ.html |
 | Issues | https://github.com/certtools/intelmq/issues |
 | Training materials | https://github.com/certtools/intelmq-tutorial/ |
 | Virtual Image |  |
