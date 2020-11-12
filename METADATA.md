@@ -15,5 +15,6 @@ The following additional metadata are strongly recommended for documents produce
 | Date | Date of last update of the document | git log (last commit) |
 | Author | Name of the Author(s) |  git log - Author field |
 | Keywords | Keywords | | 
+| Tags | Tag(s) used. The use of existing taxonomy namespace such as [TLP](https://www.misp-project.org/taxonomies.html#_tlp_2), [RSIT](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force) are recommended ||
 
 
