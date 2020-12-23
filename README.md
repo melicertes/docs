@@ -11,6 +11,7 @@ available for users, developers and contributors of the MeliCERTes CSP project.
 | Official link      | [cerebrate](https://github.com/cerebrate-project/cerebrate)      |
 | Description  | The Cerebrate Sync Platform core software. Cerebrate is an open-source platform meant to act as a trusted contact information provider and interconnection orchestrator for other security tools.  |
 | Install Documentation | [INSTALL](https://github.com/cerebrate-project/cerebrate/blob/main/INSTALL/INSTALL.md) |
+| Hardware Requirements | [Requirements](https://github.com/cerebrate-project/cerebrate/blob/main/README.md#requirements-and-installation) |
 | User Documentation | |
 | FAQ | |
 | Issues | [Cerebrate Issues](https://github.com/cerebrate-project/cerebrate/issues) |
