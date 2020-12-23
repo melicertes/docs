@@ -25,6 +25,7 @@ available for users, developers and contributors of the MeliCERTes CSP project.
 | Official link      | [MISP](https://www.misp-project.org/)      |
 | Description  |  MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)  |
 | Install Documentation | [INSTALL](https://misp.github.io/MISP/) |
+| Hardware Requirements | [Requirements](https://github.com/MISP/MISP/wiki/Frequently-Asked-Questions#2-what-are-the-hardware-requirements) |
 | User Documentation | [misp-book](https://www.circl.lu/doc/misp/) |
 | FAQ | [FAQ](https://github.com/MISP/MISP/wiki/Frequently-Asked-Questions) |
 | Issues | [MISP Issues](https://github.com/MISP/MISP/issues) |
