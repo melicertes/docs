@@ -57,12 +57,27 @@ Cerebrate is the central component of the MeliCERTes eco-system, providing direc
 
 |             |             |
 | ----------- | ----------- |
-| Official link | [MWDB Core](https://github.com/CERT-Polska/mwdb-core)      |
+| Official link | [MWDB Core](https://github.com/CERT-Polska/mwdb-core) |
 | Description  | Malware repository component for automated malware collection/analysis systems.  |
-| Install Documentation | https://github.com/CERT-Polska/mwdb-core#basic-installation-via-docker-compose |
-| User Documentation | https://mwdblib.readthedocs.io/ |
+| Install Documentation | https://mwdb.readthedocs.io/en/latest/setup-and-configuration.html |
+| User Documentation | https://mwdb.readthedocs.io/en/latest/user-guide/index.html |
 | FAQ | - |
 | Issues | https://github.com/CERT-Polska/mwdb-core/issues |
 | Training materials | - |
 | Virtual Image | - |
+| Security Reporting and Issues | - |
 
+
+## Karton
+
+|             |             |
+| ----------- | ----------- |
+| Official link | [Karton](https://github.com/CERT-Polska/karton) |
+| Description  | Distributed malware processing framework based on Python, Redis and MinIO.  |
+| Install Documentation | https://karton-core.readthedocs.io/en/latest/getting_started.html |
+| User Documentation | https://karton-core.readthedocs.io/ |
+| FAQ | - |
+| Issues | https://github.com/CERT-Polska/karton/issues |
+| Training materials | - |
+| Virtual Image | - |
+| Security Reporting and Issues | - |
