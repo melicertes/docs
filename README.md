@@ -4,6 +4,10 @@ The knowledge base includes all the reference to software and components includi
 As MeliCERTes CSP is composed of various projects, this repository gives an easy access to documentations
 available for users, developers and contributors of the MeliCERTes CSP project.
 
+# Overall philosophy
+
+Cerebrate is the central component of the MeliCERTes eco-system, providing directory services, information sharing related meta information as well as orchestration services for the local tools it interconnects with. All of the local tool components of MeliCERTes are autonomous and can work without Cerebrate, with the latter providing services to facilitate the management and configuration of the connected tools. The architecture provides a high level of resilience without sacrificing each organisation's abilities to pick and choose the components they wish to run based on their specific needs.
+
 ## Cerebrate
 
 |             |             |
