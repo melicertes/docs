@@ -45,6 +45,7 @@ Cerebrate is the central component of the MeliCERTes eco-system, providing direc
 | Official link      | [IntelMQ](https://github.com/certtools/intelmq)      |
 | Description  |  IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.   |
 | Install Documentation | https://intelmq.readthedocs.io/en/latest/user/installation.html |
+| Hardware Requirements | [Requirements](https://intelmq.readthedocs.io/en/maintenance/user/hardware-requirements.html) |
 | User Documentation | https://intelmq.readthedocs.io/en/latest/#user-guide |
 | FAQ | https://intelmq.readthedocs.io/en/latest/user/FAQ.html |
 | Issues | https://github.com/certtools/intelmq/issues |
