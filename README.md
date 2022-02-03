@@ -82,3 +82,18 @@ Cerebrate is the central component of the MeliCERTes eco-system, providing direc
 | Training materials | https://www.first.org/events/training/ws-mar-apr2021/#pBuild-Your-Own-Malware-Analysis-Pipeline-Using-New-Open-Source-Tools |
 | Virtual Image | - |
 | Security Reporting and Issues | - |
+
+## AIL Project
+
+|             |             |
+| ----------- | ----------- |
+| Official link      | [AIL Project](https://www.ail-project.org/)      |
+| Description  |  AIL Project is an open source framework composed of different modules to collect, crawl, dig and analyse unstructured data. AIL includes an extensible Python-based framework for analysis of unstructure information collected via an advanced Crawler manager (such as Tor hidden services) or from different feeders (such as Twitter, Discord, Telegram Stream providers) or custom feeders. |
+| Install Documentation | [INSTALL](https://github.com/ail-project/ail-framework#installation) |
+| Hardware Requirements |  |
+| User Documentation |  |
+| FAQ |  |
+| Issues | [AIL Project issues](https://github.com/ail-project/ail-framework/issues) |
+| Training materials | [AIL training materials](https://github.com/ail-project/ail-training) |
+| Virtual Image | |
+| Security Reporting and Issues| [security](https://github.com/ail-project/ail-framework/security/policy |
