@@ -96,4 +96,4 @@ Cerebrate is the central component of the MeliCERTes eco-system, providing direc
 | Issues | [AIL Project issues](https://github.com/ail-project/ail-framework/issues) |
 | Training materials | [AIL training materials](https://github.com/ail-project/ail-training) |
 | Virtual Image | |
-| Security Reporting and Issues| [security](https://github.com/ail-project/ail-framework/security/policy |
+| Security Reporting and Issues| [security](https://github.com/ail-project/ail-framework/security/policy) |
