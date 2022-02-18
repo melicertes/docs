@@ -1,5 +1,7 @@
 # MeliCERTes Project - knowledge base
 
+![MeliCERTes logo](https://raw.githubusercontent.com/melicertes/docs/master/img/melicertes.png)
+
 The knowledge base includes all the reference to software and components including in MeliCERTes.
 As MeliCERTes CSP is composed of various projects, this repository gives an easy access to documentations
 available for users, developers and contributors of the MeliCERTes CSP project.
