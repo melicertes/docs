@@ -99,3 +99,18 @@ Cerebrate is the central component of the MeliCERTes eco-system, providing direc
 | Training materials | [AIL training materials](https://github.com/ail-project/ail-training) |
 | Virtual Image | |
 | Security Reporting and Issues| [security](https://github.com/ail-project/ail-framework/security/policy) |
+
+## Taranis NG
+
+|             |             |
+| ----------- | ----------- |
+| Official link      | [Taranis NG](https://www.taranis.ng/)      |
+| Description  |  Taranis NG is an OSINT gathering and analysis tool for CSIRT teams and organisations. It allows osint gathering, analysis and reporting; team-to-team collaboration; and contains a user portal for simple self asset management. |
+| Install Documentation | [INSTALL](https://github.com/SK-CERT/Taranis-NG/blob/main/docker/README.md) |
+| Hardware Requirements | [Requirements](https://github.com/SK-CERT/Taranis-NG/blob/main/README.md#requirements) |
+| User Documentation | - |
+| FAQ | - |
+| Issues | [Taranis NG issues](https://github.com/SK-CERT/Taranis-NG/issues) |
+| Training materials | - |
+| Virtual Image | - |
+| Security Reporting and Issues| [security](https://github.com/SK-CERT/Taranis-NG/blob/main/SECURITY.md) |
